@@ -1,4 +1,4 @@
-module github.com/go-kratos/kratos/v2
+module github.com/sevico/kratos
 
 go 1.16
 
